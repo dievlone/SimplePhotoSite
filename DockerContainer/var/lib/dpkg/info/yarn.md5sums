@@ -1,0 +1,12 @@
+7bba9d121fabcb0d9bc77e4798368400  usr/share/doc/yarn/copyright
+08b0b9808dcc96a47d0a10ee646e04e9  usr/share/lintian/overrides/yarn
+105991db09ffc59fbc318ee3c00fe491  usr/share/yarn/package.json
+35a5f09647d356dd3d44957e3862bb79  usr/share/yarn/lib/cli.js
+f8b0a9eb34012a58d6d9c4d9d218b338  usr/share/yarn/lib/v8-compile-cache.js
+03362540ab0cf0955b5cca5abb0a43cd  usr/share/yarn/README.md
+9afb19b302b259045f25e9bb91dd34d6  usr/share/yarn/LICENSE
+75d52812cfeb782d56be993c15fb95d9  usr/share/yarn/bin/yarn.js
+83ea003c985b4617ec7206477eddd3a9  usr/share/yarn/bin/yarn.cmd
+ea59c13d1c2db44a0baaf6cb0d857380  usr/share/yarn/bin/yarnpkg
+865b8774a4a247d7a2cbbbf4b0daeeca  usr/share/yarn/bin/yarn
+bd09a0e91c6f244944e955d1a25fe4e2  usr/share/yarn/bin/yarnpkg.cmd
